@@ -6,7 +6,7 @@ Et værktøj til at finde sæsonbestemte råvarer og blive bedre til at vælge i
 
 - [Arla Råvarekalender](https://www.arla.dk/opskrifter/ravarekalender/)
 
-## Installation
+## Installation (Arch btw)
 
 Kræver Node.js. Se [Arch Wiki](https://wiki.archlinux.org/title/Node.js) for installation.
 
